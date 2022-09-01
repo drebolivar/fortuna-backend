@@ -48,6 +48,6 @@
 # Screenshots
 
 ![Image](assets/fortunalogin.png)
-![Image](assets/fortunalady.png)
+![Image](assets/vwavegoddess2.png)
 
 ---
