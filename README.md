@@ -46,7 +46,10 @@
 
 ---
 # Entity Relationship Diagram
-![Image](assets/fortuna_ERD.png)
+![Image](assets/fortunaERD.png)
+
+# Component Heirarchy Diagram\
+![Image](assets/fortunaCHD.png)
 # Screenshots
 
 ![Image](assets/fortunalogin.png)
