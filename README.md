@@ -45,6 +45,8 @@
 - [ ] Auth
 
 ---
+# Entity Relationship Diagram
+![Image](assets/fortuna_ERD.png)
 # Screenshots
 
 ![Image](assets/fortunalogin.png)
