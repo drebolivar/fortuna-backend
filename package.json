@@ -1,0 +1,24 @@
+{
+  "name": "fortuna",
+  "version": "1.0.0",
+  "description": "![Image](/assets/fortunalolgoedit.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drebolivar/fortuna.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drebolivar/fortuna/issues"
+  },
+  "homepage": "https://github.com/drebolivar/fortuna#readme",
+  "dependencies": {
+    "pg": "^8.8.0",
+    "sequelize": "^6.21.4"
+  }
+}
