@@ -1,4 +1,7 @@
 'use strict'
+
+const sequelize = require('sequelize')
+
 module.exports = {
   async up(queryInterface, Sequelize) {
     await queryInterface.createTable('posts', {
@@ -10,6 +13,9 @@ module.exports = {
       },
       authorId: {
         type: Sequelize.STRING
+      },
+      cardId: {
+        type: sequelize.STRING
       },
       report: {
         type: Sequelize.STRING
