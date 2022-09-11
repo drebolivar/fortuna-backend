@@ -2,7 +2,7 @@ const { Post, User, Comment } = require('../models')
 
 const getPostsById = async (req, res) => {
   try {
-    const posts = await Post.findByPk(req.params.post_id)
+    let posts = await Post.findByPk(req.params.post_id)
     res.send(posts)
   } catch (error) {
     throw error
@@ -11,7 +11,7 @@ const getPostsById = async (req, res) => {
 
 const getAllPostsByUserId = async (req, res) => {
   try {
-    const userPosts = await Post.findAll({
+    let userPosts = await Post.findAll({
       where: {
         authorId: req.params.user_id
       }

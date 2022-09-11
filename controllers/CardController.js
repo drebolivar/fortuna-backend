@@ -11,8 +11,8 @@ const getAllCards = async (req, res) => {
 
 const getCardById = async (req, res) => {
   try {
-    const users = await User.findByPk(req.params.card_id)
-    res.send(cards)
+    let card = await Card.findByPk(req.params.card_id)
+    res.send(card)
   } catch (error) {
     throw error
   }
