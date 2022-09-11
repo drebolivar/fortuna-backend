@@ -12,10 +12,16 @@ module.exports = {
         type: Sequelize.INTEGER
       },
       authorId: {
-        type: Sequelize.STRING
+        type: Sequelize.INTEGER,
+        onDelete: 'CASCADE',
+        onUpdate: 'CASCADE',
+        references: {
+          model: 'users',
+          key: 'id'
+        }
       },
       cardId: {
-        type: sequelize.STRING
+        type: sequelize.INTEGER
       },
       report: {
         type: Sequelize.STRING
