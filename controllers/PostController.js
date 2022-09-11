@@ -14,15 +14,15 @@ const getAllPostsByUserId = async (req, res) => {
     let userPosts = await Post.findAll({
       where: {
         authorId: req.params.user_id
-      }
-      // include: [
-      //   {
-      //     model: User
-      //   },
-      //   {
-      //     model: Comment
-      //   }
-      // ]
+      },
+      include: [
+        {
+          model: User
+        },
+        {
+          model: Comment
+        }
+      ]
     })
     res.send(userPosts)
   } catch (error) {
@@ -33,14 +33,14 @@ const getAllPostsByUserId = async (req, res) => {
 const getAllPosts = async (req, res) => {
   try {
     let posts = await Post.findAll({
-      // include: [
-      //   {
-      //     model: User
-      //   },
-      //   {
-      //     model: Comment
-      //   }
-      // ]
+      include: [
+        {
+          model: User
+        },
+        {
+          model: Comment
+        }
+      ]
     })
     res.send(posts)
   } catch (error) {

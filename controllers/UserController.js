@@ -3,11 +3,11 @@ const { User, Post, Comment, Card } = require('../models')
 const getAllUser = async (req, res) => {
   try {
     let users = await User.findAll({
-      // include: [
-      //   {
-      //     model: Post
-      //   }
-      // ]
+      include: [
+        {
+          model: Post
+        }
+      ]
     })
     res.send(users)
   } catch (error) {
