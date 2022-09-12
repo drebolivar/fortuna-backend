@@ -21,7 +21,11 @@ module.exports = {
         }
       },
       cardId: {
-        type: sequelize.INTEGER
+        type: sequelize.INTEGER,
+        references: {
+          model: 'cards',
+          key: 'id'
+        }
       },
       report: {
         type: Sequelize.STRING

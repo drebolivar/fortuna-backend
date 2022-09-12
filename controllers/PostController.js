@@ -1,4 +1,4 @@
-const { Post, User, Comment } = require('../models')
+const { Post, User, Comment, Card } = require('../models')
 
 const getPostsById = async (req, res) => {
   try {
@@ -20,6 +20,9 @@ const getAllPostsByUserId = async (req, res) => {
           model: User
         },
         {
+          model: Card
+        },
+        {
           model: Comment
         }
       ]
@@ -36,6 +39,9 @@ const getAllPosts = async (req, res) => {
       include: [
         {
           model: User
+        },
+        {
+          model: Card
         },
         {
           model: Comment
