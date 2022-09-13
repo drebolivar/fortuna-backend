@@ -819,7 +819,7 @@ module.exports = {
         },
         {
           cardName: 'Ace of Cups',
-          cardNumber: '1',
+          cardNumber: 'C1',
           suit: 'Cups',
           cardImg: 'https://i.ibb.co/Kykz2YY/c01.jpg',
           fortuneTelling: [
@@ -854,7 +854,7 @@ module.exports = {
         },
         {
           cardName: 'Two of Cups',
-          cardNumber: '2',
+          cardNumber: 'C2',
           suit: 'Cups',
           cardImg: 'https://i.ibb.co/ctDnhTh/c02.jpg',
           fortuneTelling: [
@@ -889,7 +889,7 @@ module.exports = {
         },
         {
           cardName: 'Three of Cups',
-          cardNumber: '3',
+          cardNumber: 'C3',
           suit: 'Cups',
           cardImg: 'https://i.ibb.co/n6fKzJT/c03.jpg',
           fortuneTelling: [
@@ -920,7 +920,7 @@ module.exports = {
         },
         {
           cardName: 'Four of Cups',
-          cardNumber: '4',
+          cardNumber: 'C4',
           suit: 'Cups',
           cardImg: 'https://i.ibb.co/L1fx2vx/c04.jpg',
           fortuneTelling: [
@@ -959,7 +959,7 @@ module.exports = {
         },
         {
           cardName: 'Five of Cups',
-          cardNumber: '5',
+          cardNumber: 'C5',
           suit: 'Cups',
           cardImg: 'https://i.ibb.co/crZTLMQ/c05.jpg',
           fortuneTelling: [
@@ -1002,7 +1002,7 @@ module.exports = {
         },
         {
           cardName: 'Six of Cups',
-          cardNumber: '6',
+          cardNumber: 'C6',
           suit: 'Cups',
           cardImg: 'https://i.ibb.co/nzJZnVf/c06.jpg',
           fortuneTelling: [
@@ -1041,7 +1041,7 @@ module.exports = {
         },
         {
           cardName: 'Seven of Cups',
-          cardNumber: '7',
+          cardNumber: 'C7',
           suit: 'Cups',
           cardImg: 'https://i.ibb.co/SvjXMNZ/c07.jpg',
           fortuneTelling: [
@@ -1073,7 +1073,7 @@ module.exports = {
         },
         {
           cardName: 'Eight of Cups',
-          cardNumber: '8',
+          cardNumber: 'C8',
           suit: 'Cups',
           cardImg: 'https://i.ibb.co/5v6zmJk/c08.jpg',
           fortuneTelling: [
@@ -1116,7 +1116,7 @@ module.exports = {
         },
         {
           cardName: 'Nine of Cups',
-          cardNumber: '9',
+          cardNumber: 'C9',
           suit: 'Cups',
           cardImg: 'https://i.ibb.co/xgZ2NL6/c09.jpg',
           fortuneTelling: ["Whatever you want, you'll get it"],
@@ -1148,7 +1148,7 @@ module.exports = {
         },
         {
           cardName: 'Ten of Cups',
-          cardNumber: '10',
+          cardNumber: 'C10',
           suit: 'Cups',
           cardImg: 'https://i.ibb.co/s2pnBbf/c10.jpg',
           fortuneTelling: [
@@ -1179,7 +1179,7 @@ module.exports = {
         },
         {
           cardName: 'Page of Cups',
-          cardNumber: '11',
+          cardNumber: 'C11',
           suit: 'Cups',
           cardImg: 'https://i.ibb.co/BPsx3Qk/c11.jpg',
           fortuneTelling: [
@@ -1218,7 +1218,7 @@ module.exports = {
         },
         {
           cardName: 'Knight of Cups',
-          cardNumber: '12',
+          cardNumber: 'C12',
           suit: 'Cups',
           cardImg: 'https://i.ibb.co/j5nBwdb/c12.jpg',
           fortuneTelling: [
@@ -1250,7 +1250,7 @@ module.exports = {
         },
         {
           cardName: 'Queen of Cups',
-          cardNumber: '13',
+          cardNumber: 'C13',
           suit: 'Cups',
           cardImg: 'https://i.ibb.co/Cnc5FLs/c13.jpg',
           fortuneTelling: [
@@ -1287,7 +1287,7 @@ module.exports = {
         },
         {
           cardName: 'King of Cups',
-          cardNumber: '14',
+          cardNumber: 'C14',
           suit: 'Cups',
           cardImg: 'https://i.ibb.co/Rgb0whs/c14.jpg',
           fortuneTelling: [
@@ -1318,7 +1318,7 @@ module.exports = {
         },
         {
           cardName: 'Ace of Swords',
-          cardNumber: '1',
+          cardNumber: 'S1',
           suit: 'Swords',
           cardImg: 'https://i.ibb.co/xL3m5TB/s01.jpg',
           fortuneTelling: [
@@ -1353,7 +1353,7 @@ module.exports = {
         },
         {
           cardName: 'Two of Swords',
-          cardNumber: '2',
+          cardNumber: 'S2',
           suit: 'Swords',
           cardImg: 'https://i.ibb.co/cg4ghrV/s02.jpg',
           fortuneTelling: [
@@ -1386,7 +1386,7 @@ module.exports = {
         },
         {
           cardName: 'Three of Swords',
-          cardNumber: '3',
+          cardNumber: 'S3',
           suit: 'Swords',
           cardImg: 'https://i.ibb.co/d7kMPsq/s03.jpg',
           fortuneTelling: [
@@ -1424,7 +1424,7 @@ module.exports = {
         },
         {
           cardName: 'Four of Swords',
-          cardNumber: '4',
+          cardNumber: 'S4',
           suit: 'Swords',
           cardImg: 'https://i.ibb.co/6gR0yQ3/s04.jpg',
           fortuneTelling: [
@@ -1455,7 +1455,7 @@ module.exports = {
         },
         {
           cardName: 'Five of Swords',
-          cardNumber: '5',
+          cardNumber: 'S5',
           suit: 'Swords',
           cardImg: 'https://i.ibb.co/DwxnjZy/s05.jpg',
           fortuneTelling: [
@@ -1496,7 +1496,7 @@ module.exports = {
         },
         {
           cardName: 'Six of Swords',
-          cardNumber: '6',
+          cardNumber: 'S6',
           suit: 'Swords',
           cardImg: 'https://i.ibb.co/n6YxyYB/s06.jpg',
           fortuneTelling: [
@@ -1530,7 +1530,7 @@ module.exports = {
         },
         {
           cardName: 'Seven of Swords',
-          cardNumber: '7',
+          cardNumber: 'S7',
           suit: 'Swords',
           cardImg: 'https://i.ibb.co/2WFLBBH/s07.jpg',
           fortuneTelling: [
@@ -1562,7 +1562,7 @@ module.exports = {
         },
         {
           cardName: 'Eight of Swords',
-          cardNumber: '8',
+          cardNumber: 'S8',
           suit: 'Swords',
           cardImg: 'https://i.ibb.co/Gs2hkBG/s08.jpg',
           fortuneTelling: [
@@ -1604,7 +1604,7 @@ module.exports = {
         },
         {
           cardName: 'Nine of Swords',
-          cardNumber: '9',
+          cardNumber: 'S9',
           suit: 'Swords',
           cardImg: 'https://i.ibb.co/MPb2xPg/s09.jpg',
           fortuneTelling: [
@@ -1639,7 +1639,7 @@ module.exports = {
         },
         {
           cardName: 'Ten of Swords',
-          cardNumber: '10',
+          cardNumber: 'S10',
           suit: 'Swords',
           cardImg: 'https://i.ibb.co/pLK5JVh/s10.jpg',
           fortuneTelling: [
@@ -1674,7 +1674,7 @@ module.exports = {
         },
         {
           cardName: 'Page of Swords',
-          cardNumber: '11',
+          cardNumber: 'S11',
           suit: 'Swords',
           cardImg: 'https://i.ibb.co/q55GxRv/s11.jpg',
           fortuneTelling: [
@@ -1708,7 +1708,7 @@ module.exports = {
         },
         {
           cardName: 'Knight of Swords',
-          cardNumber: '12',
+          cardNumber: 'S12',
           suit: 'Swords',
           cardImg: 'https://i.ibb.co/0nC7V9X/s12.jpg',
           fortuneTelling: [
@@ -1752,7 +1752,7 @@ module.exports = {
         },
         {
           cardName: 'Queen of Swords',
-          cardNumber: '13',
+          cardNumber: 'S13',
           suit: 'Swords',
           cardImg: 'https://i.ibb.co/sCWFJJ5/s13.jpg',
           fortuneTelling: [
@@ -1789,7 +1789,7 @@ module.exports = {
         },
         {
           cardName: 'King of Swords',
-          cardNumber: '14',
+          cardNumber: 'S14',
           suit: 'Swords',
           cardImg: 'https://i.ibb.co/3NS03W0/s14.jpg',
           fortuneTelling: [
@@ -1823,7 +1823,7 @@ module.exports = {
         },
         {
           cardName: 'Ace of Wands',
-          cardNumber: '1',
+          cardNumber: 'W1',
           suit: 'Wands',
           cardImg: 'https://i.ibb.co/Y0hTSXf/w01.jpg',
           fortuneTelling: [
@@ -1865,7 +1865,7 @@ module.exports = {
         },
         {
           cardName: 'Two of Wands',
-          cardNumber: '2',
+          cardNumber: 'W2',
           suit: 'Wands',
           cardImg: 'https://i.ibb.co/Lt8TZx7/w02.jpg',
           fortuneTelling: [
@@ -1898,7 +1898,7 @@ module.exports = {
         },
         {
           cardName: 'Three of Wands',
-          cardNumber: '3',
+          cardNumber: 'W3',
           suit: 'Wands',
           cardImg: 'https://i.ibb.co/cgRzDWC/w03.jpg',
           fortuneTelling: [
@@ -1932,7 +1932,7 @@ module.exports = {
         },
         {
           cardName: 'Four of Wands',
-          cardNumber: '4',
+          cardNumber: 'W4',
           suit: 'Wands',
           cardImg: 'https://i.ibb.co/pJnDCN3/w04.jpg',
           fortuneTelling: [
@@ -1970,7 +1970,7 @@ module.exports = {
         },
         {
           cardName: 'Five of Wands',
-          cardNumber: '5',
+          cardNumber: 'W5',
           suit: 'Wands',
           cardImg: 'https://i.ibb.co/pWQRkbw/w05.jpg',
           fortuneTelling: [
@@ -2007,7 +2007,7 @@ module.exports = {
         },
         {
           cardName: 'Six of Wands',
-          cardNumber: '6',
+          cardNumber: 'W6',
           suit: 'Wands',
           cardImg: 'https://i.ibb.co/H2vq2T7/w06.jpg',
           fortuneTelling: [
@@ -2043,7 +2043,7 @@ module.exports = {
         },
         {
           cardName: 'Seven of Wands',
-          cardNumber: '7',
+          cardNumber: 'W7',
           suit: 'Wands',
           cardImg: 'https://i.ibb.co/Z10RxSC/w07.jpg',
           fortuneTelling: [
@@ -2076,7 +2076,7 @@ module.exports = {
         },
         {
           cardName: 'Eight of Wands',
-          cardNumber: '8',
+          cardNumber: 'W8',
           suit: 'Wands',
           cardImg: 'https://i.ibb.co/PgXKQDH/w08.jpg',
           fortuneTelling: [
@@ -2111,7 +2111,7 @@ module.exports = {
         },
         {
           cardName: 'Nine of Wands',
-          cardNumber: '9',
+          cardNumber: 'W9',
           suit: 'Wands',
           cardImg: 'https://i.ibb.co/Kwjg4mp/w09.jpg',
           fortuneTelling: [
@@ -2153,7 +2153,7 @@ module.exports = {
         },
         {
           cardName: 'Ten of Wands',
-          cardNumber: '10',
+          cardNumber: 'W10',
           suit: 'Wands',
           cardImg: 'https://i.ibb.co/nC1dkyj/w10.jpg',
           fortuneTelling: [
@@ -2185,7 +2185,7 @@ module.exports = {
         },
         {
           cardName: 'Page of Wands',
-          cardNumber: '11',
+          cardNumber: 'W11',
           suit: 'Wands',
           cardImg: 'https://i.ibb.co/mSm8YbV/w11.jpg',
           fortuneTelling: [
@@ -2222,7 +2222,7 @@ module.exports = {
         },
         {
           cardName: 'Knight of Wands',
-          cardNumber: '12',
+          cardNumber: 'W12',
           suit: 'Wands',
           cardImg: 'https://i.ibb.co/fpBrsYw/w12.jpg',
           fortuneTelling: [
@@ -2261,7 +2261,7 @@ module.exports = {
         },
         {
           cardName: 'Queen of Wands',
-          cardNumber: '13',
+          cardNumber: 'W13',
           suit: 'Wands',
           cardImg: 'https://i.ibb.co/RDVH1P9/w13.jpg',
           fortuneTelling: [
@@ -2291,7 +2291,7 @@ module.exports = {
         },
         {
           cardName: 'King of Wands',
-          cardNumber: '14',
+          cardNumber: 'W14',
           suit: 'Wands',
           cardImg: 'https://i.ibb.co/BtxjySs/w14.jpg',
           fortuneTelling: [
@@ -2321,7 +2321,7 @@ module.exports = {
         },
         {
           cardName: 'Ace of Pentacles',
-          cardNumber: '1',
+          cardNumber: 'P1',
           suit: 'Pentacles',
           cardImg: 'https://i.ibb.co/fNbGT9Q/p01.jpg',
           fortuneTelling: [
@@ -2354,7 +2354,7 @@ module.exports = {
         },
         {
           cardName: 'Two of Pentacles',
-          cardNumber: '2',
+          cardNumber: 'P2',
           suit: 'Pentacles',
           cardImg: 'https://i.ibb.co/xGcwNNx/p02.jpg',
           fortuneTelling: [
@@ -2388,7 +2388,7 @@ module.exports = {
         },
         {
           cardName: 'Three of Pentacles',
-          cardNumber: '3',
+          cardNumber: 'P3',
           suit: 'Pentacles',
           cardImg: 'https://i.ibb.co/P9zqn2z/p03.jpg',
           fortuneTelling: [
@@ -2423,7 +2423,7 @@ module.exports = {
         },
         {
           cardName: 'Four of Pentacles',
-          cardNumber: '4',
+          cardNumber: 'P4',
           suit: 'Pentacles',
           cardImg: 'https://i.ibb.co/V9CNR2H/p04.jpg',
           fortuneTelling: ["A rainy day is coming\u2014it's time to save"],
@@ -2455,7 +2455,7 @@ module.exports = {
         },
         {
           cardName: 'Five of Pentacles',
-          cardNumber: '5',
+          cardNumber: 'P5',
           suit: 'Pentacles',
           cardImg: 'https://i.ibb.co/4Zj0qHT/p05.jpg',
           fortuneTelling: [
@@ -2490,7 +2490,7 @@ module.exports = {
         },
         {
           cardName: 'Six of Pentacles',
-          cardNumber: '6',
+          cardNumber: 'P6',
           suit: 'Pentacles',
           cardImg: 'https://i.ibb.co/LZxXB4N/p06.jpg',
           fortuneTelling: [
@@ -2525,7 +2525,7 @@ module.exports = {
         },
         {
           cardName: 'Seven of Pentacles',
-          cardNumber: '7',
+          cardNumber: 'P7',
           suit: 'Pentacles',
           cardImg: 'https://i.ibb.co/ZSks9zJ/p07.jpg',
           fortuneTelling: [
@@ -2559,7 +2559,7 @@ module.exports = {
         },
         {
           cardName: 'Eight of Pentacles',
-          cardNumber: '8',
+          cardNumber: 'P8',
           suit: 'Pentacles',
           cardImg: 'https://i.ibb.co/tcRxx6v/p08.jpg',
           fortuneTelling: [
@@ -2596,7 +2596,7 @@ module.exports = {
         },
         {
           cardName: 'Nine of Pentacles',
-          cardNumber: '9',
+          cardNumber: 'P9',
           suit: 'Pentacles',
           cardImg: 'https://i.ibb.co/gyFrhq3/p09.jpg',
           fortuneTelling: [
@@ -2628,7 +2628,7 @@ module.exports = {
         },
         {
           cardName: 'Ten of Pentacles',
-          cardNumber: '10',
+          cardNumber: 'P10',
           suit: 'Pentacles',
           cardImg: 'https://i.ibb.co/0y9WtBW/p10.jpg',
           fortuneTelling: [
@@ -2661,7 +2661,7 @@ module.exports = {
         },
         {
           cardName: 'Page of Pentacles',
-          cardNumber: '11',
+          cardNumber: 'P11',
           suit: 'Pentacles',
           cardImg: 'https://i.ibb.co/Mnnbd1v/p11.jpg',
           fortuneTelling: [
@@ -2700,7 +2700,7 @@ module.exports = {
         },
         {
           cardName: 'Knight of Pentacles',
-          cardNumber: '12',
+          cardNumber: 'P12',
           suit: 'Pentacles',
           cardImg: 'https://i.ibb.co/2jbjFZ7/p12.jpg',
           fortuneTelling: [
@@ -2737,7 +2737,7 @@ module.exports = {
         },
         {
           cardName: 'Queen of Pentacles',
-          cardNumber: '13',
+          cardNumber: 'P13',
           suit: 'Pentacles',
           cardImg: 'https://i.ibb.co/XSjPs4y/p13.jpg',
           fortuneTelling: [
@@ -2775,7 +2775,7 @@ module.exports = {
         },
         {
           cardName: 'King of Pentacles',
-          cardNumber: '14',
+          cardNumber: 'P14',
           suit: 'Pentacles',
           cardImg: 'https://i.ibb.co/dr6GgCN/p14.jpg',
           fortuneTelling: [

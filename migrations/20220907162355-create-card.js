@@ -8,6 +8,10 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER
       },
+      postId: {
+        type: Sequelize.INTEGER,
+        allowNull: true
+      },
       cardName: {
         type: Sequelize.STRING(5000)
       },
