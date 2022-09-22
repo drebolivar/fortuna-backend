@@ -25,19 +25,19 @@ module.exports = {
         type: Sequelize.STRING(5000)
       },
       fortuneTelling: {
-        type: Sequelize.STRING(5000)
+        type: Sequelize.ARRAY(Sequelize.TEXT)
       },
       keywords: {
-        type: Sequelize.STRING(5000)
+        type: Sequelize.ARRAY(Sequelize.TEXT)
       },
       light: {
-        type: Sequelize.STRING(5000)
+        type: Sequelize.ARRAY(Sequelize.TEXT)
       },
       shadow: {
-        type: Sequelize.STRING(5000)
+        type: Sequelize.ARRAY(Sequelize.TEXT)
       },
       questionsToAsk: {
-        type: Sequelize.STRING(5000)
+        type: Sequelize.ARRAY(Sequelize.TEXT)
       },
       createdAt: {
         allowNull: false,

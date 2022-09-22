@@ -15,15 +15,15 @@ module.exports = (sequelize, DataTypes) => {
   Card.init(
     {
       postId: DataTypes.INTEGER,
-      cardName: DataTypes.STRING,
-      cardNumber: DataTypes.STRING,
-      suit: DataTypes.STRING,
-      cardImg: DataTypes.STRING,
-      fortuneTelling: DataTypes.STRING,
-      keywords: DataTypes.STRING,
-      light: DataTypes.STRING,
-      shadow: DataTypes.STRING,
-      questionsToAsk: DataTypes.STRING
+      cardName: DataTypes.TEXT,
+      cardNumber: DataTypes.TEXT,
+      suit: DataTypes.TEXT,
+      cardImg: DataTypes.TEXT,
+      fortuneTelling: DataTypes.ARRAY(DataTypes.TEXT),
+      keywords: DataTypes.ARRAY(DataTypes.TEXT),
+      light: DataTypes.ARRAY(DataTypes.TEXT),
+      shadow: DataTypes.ARRAY(DataTypes.TEXT),
+      questionsToAsk: DataTypes.ARRAY(DataTypes.TEXT)
     },
     {
       sequelize,
