@@ -3,7 +3,6 @@
 ### Andres 'Dre' Bolivar | [08/01/2022]
 ### [Github](http://www.github.com/drebolivar) | [Portfolio](http://drebolivar.github.io/portfolio) | [LinkedIn](http://www.linkedin.com/in/drebolivar) | [Instagram](http://www.instagram.com/dredose) 
 ---
-
 ## **_Description_**
  A place to log and share daily tarot card readings.
 
@@ -18,7 +17,11 @@
 - React/Vue
 
 ---
+## **_Resources_**
+- [Github Repo(Backend)](https://github.com/drebolivar/fortuna)
+- [Github Repo(Frontend)](https://github.com/drebolivar/fortuna-frontend)
 
+---
 ## **_Stretch Goals_**
 - [ ] Profile Pages
 - [ ] Aesthetic Switches
