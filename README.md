@@ -23,7 +23,6 @@
 
 - [ ] Profile Pages
 - [ ] Aesthetic Switches
-- [ ] 
 
 ---
 # Screenshots
