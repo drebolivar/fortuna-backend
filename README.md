@@ -1,7 +1,7 @@
-# fortuna (Backend)
 ![Image](/assets/fortunabar.png)
-## created by: Andres 'Dre' Bolivar | [08/01/2022]
-## [Github](http://www.github.com/drebolivar) | [Portfolio](http://drebolivar.github.io/portfolio) | [LinkedIn](http://www.linkedin.com/in/drebolivar) | [Instagram](http://www.instagram.com/dredose) 
+## **fortuna (Backend)**
+## Andres 'Dre' Bolivar | [08/01/2022]
+### [Github](http://www.github.com/drebolivar) | [Portfolio](http://drebolivar.github.io/portfolio) | [LinkedIn](http://www.linkedin.com/in/drebolivar) | [Instagram](http://www.instagram.com/dredose) 
 ---
 
 # Description
