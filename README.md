@@ -19,13 +19,6 @@
 
 ---
 
-# Resources
-
-- [GitHub](https://github.com/drebolivar/fortuna)
-- [Trello](https://trello.com/b/2tMKDJpv/fortuna)
-
----
-
 # Stretch Goals
 
 - [ ] Profile Pages
