@@ -4,11 +4,11 @@
 ### [Github](http://www.github.com/drebolivar) | [Portfolio](http://drebolivar.github.io/portfolio) | [LinkedIn](http://www.linkedin.com/in/drebolivar) | [Instagram](http://www.instagram.com/dredose) 
 ---
 
-# Description
+## **_Description_**
  A place to log and share daily tarot card readings.
 
 ---
-# Technologies Used
+## **_Technologies Used_**
 - CSS
 - HTML
 - Javascript
@@ -19,14 +19,10 @@
 
 ---
 
-# Stretch Goals
-
+## **_Stretch Goals_**
 - [ ] Profile Pages
 - [ ] Aesthetic Switches
 
 ---
-# Screenshots
-
+## **_Screenshots_**
 ![Image](assets/fortuna3.png)
-
----
